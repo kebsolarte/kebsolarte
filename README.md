@@ -15,7 +15,6 @@ I'm a passionate **Data Analyst** with experience in **SQL, Data Viz, and a litt
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=cloud&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
@@ -25,16 +24,11 @@ I'm a passionate **Data Analyst** with experience in **SQL, Data Viz, and a litt
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
 
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **LinkedIn:** [Connect with me!](https://www.linkedin.com/in/kevinolarte/)
+
 
 
